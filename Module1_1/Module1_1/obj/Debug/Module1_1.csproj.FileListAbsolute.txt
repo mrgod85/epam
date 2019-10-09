@@ -1,0 +1,5 @@
+D:\Training\epam\Module1_1\Module1_1\bin\Debug\Module1_1.exe.config
+D:\Training\epam\Module1_1\Module1_1\bin\Debug\Module1_1.exe
+D:\Training\epam\Module1_1\Module1_1\bin\Debug\Module1_1.pdb
+D:\Training\epam\Module1_1\Module1_1\obj\Debug\Module1_1.exe
+D:\Training\epam\Module1_1\Module1_1\obj\Debug\Module1_1.pdb
