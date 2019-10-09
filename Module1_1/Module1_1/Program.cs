@@ -15,9 +15,6 @@ namespace Module1_1
             a += b;
             b = -(b - a);
             a -= b;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.ReadKey();
         }
     }
 }
