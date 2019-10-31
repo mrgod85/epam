@@ -22,7 +22,7 @@ namespace module4_1
             MAX(a);
             Console.Write("The minimum element in the array: ");
             MIN(a);
-            Console.Write("Sum of elements in an array: ");
+            Console.Write("Summ of elements in an array: ");
             SUMM(a);
             Console.Write("The difference between the max and min elements in the array: ");
             RAZN(a);
