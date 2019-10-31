@@ -18,7 +18,7 @@ namespace module4_1
             {
                 a[i] = int.Parse(Console.ReadLine());
             }
-            Console.Write("The maximum element in the array: ");
+            Console.Write("The maximum element in the  array: ");
             MAX(a);
             Console.Write("The minimum element in the array: ");
             MIN(a);
